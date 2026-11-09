@@ -1,0 +1,56 @@
+/* Galerías: todas las imágenes del mismo tamaño y alineadas */
+.galeria {
+  display: grid;
+  gap: 1rem;
+  align-items: start;
+  margin: 1rem 0 1.5rem;
+}
+.galeria.g2 { grid-template-columns: repeat(2, 1fr); }
+.galeria.g3 { grid-template-columns: repeat(3, 1fr); }
+.galeria.g4 { grid-template-columns: repeat(4, 1fr); }
+.galeria.g5 { grid-template-columns: repeat(5, 1fr); }
+
+.galeria > *,
+.galeria .quarto-figure,
+.galeria figure { margin: 0 !important; }
+
+.galeria img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  display: block;
+}
+.galeria.cuadrada img { aspect-ratio: 1 / 1; }
+.galeria.vertical img { aspect-ratio: 3 / 4; }
+.galeria.contener img { object-fit: contain; background: #fff; }
+
+.galeria figcaption {
+  font-size: .85rem;
+  margin-top: .4rem;
+  text-align: left;
+}
+
+.numeros { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 1rem 0; }
+.numeros > div { font-size: 2.2rem; font-weight: 700; padding: .5rem 1.5rem; }
+
+@media (max-width: 700px) {
+  .galeria.g3, .galeria.g4, .galeria.g5 { grid-template-columns: repeat(2, 1fr); }
+}
+
+.galeria.estrecha { max-width: 75%; margin-left: auto; margin-right: auto; }
+@media (max-width: 700px) { .galeria.estrecha { max-width: 100%; } }
+
+/* Diagramas */
+.cell-output-display svg .nodeLabel, .mermaid .nodeLabel { color: #4A3A2A !important; font-family: inherit; }
+.mermaid .node rect, .mermaid .node path, .mermaid .node polygon { fill: #EFE3CF !important; stroke: none !important; }
+.mermaid .flowchart-link { stroke: #A8875F !important; }
+.mermaid marker path, .mermaid .marker { fill: #A8875F !important; stroke: #A8875F !important; }
+
+.numero-grande {
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 1.5rem 0 .5rem;
+}
