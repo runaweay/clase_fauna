@@ -2,7 +2,7 @@
 title: "¿El suelo es un organismo vivo?"
 subtitle: "Cómo las prácticas de recuperación del suelo pueden aumentar la fauna edáfica"
 author: "Mariana dos Santos Moreno"
-date: 2026-11-08
+date: 2026-11-10
 date-format: "D [de] MMMM [de] YYYY"
 lang: es
 bibliography: ../referencias/referencias.bib
@@ -61,7 +61,7 @@ Alrededor del 5 % del volumen de un suelo es materia orgánica, viva y muerta:
 - **Viva (biota del suelo):** raíces de las plantas; microorganismos como bacterias, hongos y algas; y fauna (micro, meso y macrofauna).
 - **Muerta:** restos frescos como hojas, raíces y animales muertos (hojarasca); materia orgánica particulada, es decir, fragmentos en descomposición; y humus y materia orgánica unida a los minerales, la fracción más estable.
 
-La fauna y los microbios convierten la hojarasca en materia orgánica del suelo y la mezclan con la parte mineral [@chenu2015; @baretta2011].
+La parte viva transforma la muerta: la fauna fragmenta la hojarasca y los microbios la descomponen, liberan nutrientes y CO~2~, y una parte queda en el suelo como materia orgánica [@chenu2015; @baretta2011].
 
 ### Los organismos del suelo
 
@@ -108,7 +108,7 @@ La clasificación más usada es la de @swift1979: por tamaño, pero también por
 - **Fúrcula:** una "cola" que funciona como catapulta para escapar de los depredadores;
 - **Colóforo:** tubo ventral que los fija al sustrato (del griego *colla*, pegamento);
 - Comen hongos y materia orgánica muerta, y estimulan a los microbios descomponedores;
-- Mudan durante toda la vida, y muchos se reproducen sin machos;
+- Son ametábolos (no tienen metamorfosis) y mudan durante toda la vida; muchos se reproducen sin machos;
 - Son muy sensibles a la humedad y a la temperatura.
 
 ::: {.galeria .g3 .cuadrada}
@@ -132,7 +132,7 @@ El salto de los colémbolos, en cámara lenta (New Scientist), basado en el estu
 
 ![**Dipluros.** Dos "colas"; en pinza, depredadores; filiformes, detritívoros.](../img/dipluro.jpg){fig-alt="Dipluro"}
 
-![**Sínfilos.** Miriápodos con 12 pares de patas; algunos dañan raíces.](../img/sinfilo.jpg){fig-alt="Sínfilo"}
+![**Sínfilos.** Miriápodos con 12 pares de patas; tienen órgano de Tömösváry y producen seda por los cercos.](../img/sinfilo.jpg){fig-alt="Sínfilo"}
 
 ![**Paurópodos.** Sin corazón ni sistema respiratorio; respiran por la piel.](../img/pauropodo.jpg){fig-alt="Paurópodo"}
 
@@ -143,24 +143,27 @@ Los enquitreidos, o "lombrices blancas", también forman parte de la mesofauna. 
 
 ### Algunas curiosidades
 
-- Una cucharadita de suelo contiene más organismos vivos que personas en el mundo [@fao2020, p. 12].
-- Un gramo de suelo puede contener hasta mil millones de células de bacterias, de decenas de miles de taxones, y hasta 200 metros de hifas de hongos [@fao2020, p. 12].
-- El suelo alberga más del 25 % de la biodiversidad del planeta [@fao2020, p. 110].
-- Aunque puede haber 100.000 ácaros en un metro cuadrado, todos juntos pesan apenas unos 2 g [@fao2020, p. 47].
-- La biomasa de toda la fauna del suelo es menos del 4 % de la biomasa microbiana, pero la fauna aumenta la descomposición de la hojarasca en un 27 % en promedio [@fao2020, p. 48].
+- Una cucharadita de suelo contiene más organismos vivos que personas en el mundo [@fao2020].
+- Un gramo de suelo puede contener hasta mil millones de células de bacterias, de decenas de miles de taxones, y hasta 200 metros de hifas de hongos [@fao2020].
+- El suelo alberga más del 25 % de la biodiversidad del planeta [@fao2020].
+- Aunque puede haber 100.000 ácaros en un metro cuadrado, todos juntos pesan apenas unos 2 g [@fao2020].
+- La biomasa de toda la fauna del suelo es menos del 4 % de la biomasa microbiana, pero la fauna aumenta la descomposición de la hojarasca en un 27 % en promedio [@fao2020].
 
 ## 2. ¿Qué hacen sus organismos?
 
 ### Grupos según lo que comen
 
-| Grupo | Qué comen | Ejemplos |
-|------------------------|------------------------|------------------------|
-| Detritívoros | Restos vegetales en descomposición | diplópodos, isópodos |
-| Saprófagos | Residuos vegetales en varios estados de descomposición |  |
-| Coprófagos | Excrementos de otros animales | escarabajos, lombrices |
-| Fungívoros y microbívoros | Hifas, esporas, bacterias | colémbolos, muchos ácaros |
-| Fitófagos | Raíces y tejidos vivos | sínfilos, algunos nematodos |
-| Depredadores | Otros animales vivos | ácaros gamásidos, arañas |
+La fauna del suelo se divide en dos grandes grupos según su alimentación: los que comen materia muerta (**saprófagos**) y los que comen tejidos vivos (**biófagos**) [@baretta2011].
+
+| Grupo | Subgrupo | Qué comen | Ejemplos |
+|----|----|----|----|
+| **Saprófagos** (materia muerta) | Detritívoros | Restos vegetales en varios estados de descomposición | diplópodos, isópodos |
+|  | Coprófagos | Excrementos de otros animales | escarabajos, lombrices |
+|  | Cadavéricolas | Animales muertos | larvas de insectos |
+| **Biófagos** (tejidos vivos) | Fitófagos | Raíces y tejidos vegetales vivos | sínfilos, algunos nematodos |
+|  | Fungívoros y microbívoros | Hifas, esporas, bacterias y pequeños organismos | colémbolos, muchos ácaros |
+|  | Depredadores | Otros animales vivos, que matan rápidamente | ácaros gamásidos, arañas |
+|  | Parásitos | Otros animales vivos, que matan lentamente |  |
 
 : Grupos tróficos de la fauna del suelo [@baretta2011; @toma2017].
 
@@ -196,19 +199,19 @@ Las galerías y poros los construye sobre todo la macrofauna (lombrices, termita
 
 ### El otro lado de la moneda
 
-Cuando se habla de microorganismos, lo primero que se asocia son las enfermedades. Esa percepción tiene una base histórica, porque los primeros microorganismos estudiados estaban relacionados con enfermedades humanas [@dionisio_kusdra, p. 14]. En el suelo también viven organismos que causan problemas, y la biota del suelo puede provocar pérdidas importantes en los cultivos [@fao2020, p. 134]. Algunos ejemplos:
+Cuando se habla de microorganismos, lo primero que se asocia son las enfermedades. Esa percepción tiene una base histórica, porque los primeros microorganismos estudiados estaban relacionados con enfermedades humanas [@dionisio_kusdra]. En el suelo también viven organismos que causan problemas, y la biota del suelo puede provocar pérdidas importantes en los cultivos [@fao2020]. Algunos ejemplos:
 
-- *Spongospora subterranea*, un protista del suelo que causa lesiones en los tubérculos y agallas en las raíces de la papa, y cuyas esporas persisten en el suelo por muchos años [@fao2020, p. 41];
+- *Spongospora subterranea*, un protista del suelo que causa lesiones en los tubérculos y agallas en las raíces de la papa, y cuyas esporas persisten en el suelo por muchos años [@fao2020];
 - nematodos que parasitan raíces y sínfilos que dañan raíces de cultivos;
-- *Bacillus anthracis*, bacteria nativa del suelo que parasita al ganado y causa el ántrax [@dionisio_kusdra, p. 15].
+- *Bacillus anthracis*, bacteria nativa del suelo que parasita al ganado y causa el ántrax [@dionisio_kusdra].
 
-Sin embargo, los organismos perjudiciales son pocos comparados con los benéficos, que descomponen residuos, reciclan nutrientes y tienen usos agrícolas, industriales y farmacéuticos [@dionisio_kusdra, p. 14]. Además, la propia biota del suelo ayuda a controlar a los patógenos:
+Sin embargo, los organismos perjudiciales son pocos comparados con los benéficos, que descomponen residuos, reciclan nutrientes y tienen usos agrícolas, industriales y farmacéuticos [@dionisio_kusdra]. Además, la propia biota del suelo ayuda a controlar a los patógenos:
 
-- en un suelo sano y sin perturbar, las bacterias no patógenas suelen superar en competencia a las patógenas, y las actinobacterias, como *Streptomyces*, producen antibióticos que inhiben a los patógenos de plantas [@fao2020, p. 14];
-- en laboratorio, algunos colémbolos prefieren comer hongos patógenos antes que hongos micorrízicos, y pueden reducir enfermedades de raíz en cereales; en el campo, el efecto depende de su densidad [@fao2020, p. 57];
-- las lombrices pueden regular patógenos de plantas y el desarrollo de enfermedades [@fao2020, p. 63].
+- en un suelo sano y sin perturbar, las bacterias no patógenas suelen superar en competencia a las patógenas, y las actinobacterias, como *Streptomyces*, producen antibióticos que inhiben a los patógenos de plantas [@fao2020];
+- en laboratorio, algunos colémbolos prefieren comer hongos patógenos antes que hongos micorrízicos, y pueden reducir enfermedades de raíz en cereales; en el campo, el efecto depende de su densidad [@fao2020];
+- las lombrices pueden regular patógenos de plantas y el desarrollo de enfermedades [@fao2020].
 
-El suelo también nos protege a nosotros. De él se aislaron los primeros microorganismos productores de antibióticos: la penicilina, de hongos; la neomicina, de bacterias; y la estreptomicina, de actinobacterias [Moreira y Siqueira, 2006, citado en @dionisio_kusdra, p. 15]. Y mucho antes de la industria farmacéutica ya había contacto con ellos: se encontró tetraciclina en esqueletos de la antigua Nubia, en Sudán, de los años 350 a 550 d. C. [Nelson et al., 2010, citado en @fao2020, p. 142].
+El suelo también nos protege a nosotros. De él se aislaron los primeros microorganismos productores de antibióticos: la penicilina, de hongos; la neomicina, de bacterias; y la estreptomicina, de actinobacterias [Moreira y Siqueira, 2006, citado en @dionisio_kusdra]. Y mucho antes de la industria farmacéutica ya había contacto con ellos: se encontró tetraciclina en esqueletos de la antigua Nubia, en Sudán, de los años 350 a 550 d. C. [Nelson et al., 2010, citado en @fao2020].
 
 ### Distribución
 
@@ -294,13 +297,13 @@ La recuperación puede tardar de pocos años a varias décadas. Una vez que la f
 
 ### Los organismos del suelo como bioindicadores
 
-Los bioindicadores son especies, grupos de especies o comunidades cuya presencia o ausencia, abundancia y condición revelan una determinada condición ambiental [@baretta2011, p. 138]. Como los organismos del suelo son sensibles a cualquier cambio físico, químico o biológico, sirven para evaluar la calidad del suelo y el efecto del manejo. Su uso crece en todo el mundo porque son fáciles de muestrear y representan bien el ambiente [@baretta2011, p. 138].
+Los bioindicadores son especies, grupos de especies o comunidades cuya presencia o ausencia, abundancia y condición revelan una determinada condición ambiental [@baretta2011]. Como los organismos del suelo son sensibles a cualquier cambio físico, químico o biológico, sirven para evaluar la calidad del suelo y el efecto del manejo. Su uso crece en todo el mundo porque son fáciles de muestrear y representan bien el ambiente [@baretta2011].
 
-Con ellos se puede evaluar la alteración o destrucción del hábitat, la contaminación por metales pesados o agroquímicos, la rehabilitación de áreas degradadas, la sucesión de la vegetación y el tipo de manejo adoptado [@baretta2011, p. 139]. Algunos ejemplos:
+Con ellos se puede evaluar la alteración o destrucción del hábitat, la contaminación por metales pesados o agroquímicos, la rehabilitación de áreas degradadas, la sucesión de la vegetación y el tipo de manejo adoptado [@baretta2011]. Algunos ejemplos:
 
-- **Ácaros oribátidos:** tienen desarrollo lento, ciclos de vida de hasta varios años y baja fecundidad, por lo que son muy sensibles a la perturbación del suelo. En viñedos europeos, su abundancia fue el indicador más sensible de la degradación por erosión entre todos los grupos estudiados [Costantini et al., 2018, citado en @fao2020, p. 48].
-- **Lombrices, colémbolos y nematodos:** son los bioindicadores de la fauna del suelo más establecidos [@fao2020, p. 108].
-- **Lombrices y termitas:** se usan como indicadores de menor o mayor sensibilidad a las acciones humanas [Turco y Blume, 1999, citado en @baretta2011, p. 139].
+- **Ácaros oribátidos:** tienen desarrollo lento, ciclos de vida de hasta varios años y baja fecundidad, por lo que son muy sensibles a la perturbación del suelo. En viñedos europeos, su abundancia fue el indicador más sensible de la degradación por erosión entre todos los grupos estudiados [Costantini et al., 2018, citado en @fao2020].
+- **Lombrices, colémbolos y nematodos:** son los bioindicadores de la fauna del suelo más establecidos [@fao2020].
+- **Lombrices y termitas:** se usan como indicadores de menor o mayor sensibilidad a las acciones humanas [Turco y Blume, 1999, citado en @baretta2011].
 - **Ensayos de laboratorio:** organismos como el colémbolo *Folsomia candida* [@oecd232] y el ácaro *Oppia nitens* [@iso23266] se usan en ensayos estandarizados para evaluar la toxicidad de un suelo, como en mi maestría.
 
 ## 4. El suelo en el Antropoceno
@@ -337,7 +340,7 @@ El P1 tenía poca materia orgánica (7 a 18 g/dm^3^) y quedó ácido tras la cos
 
 Los ensayos se hicieron en UC Davis en 2025 con el ácaro oribátido *Oppia nitens*, organismo estándar en ecotoxicología [@iso23266]. Se agregó cadmio (Cd) a las muestras de suelo enviadas desde Brasil y se midieron el crecimiento (14 días), la sobrevivencia y la reproducción (28 días).
 
-El crecimiento se mide por el color del tegumento, que se oscurece a medida que el ácaro crece [@jegede2023]. En cada réplica se pusieron 5 ácaros adultos en 3 g de suelo con 0, 200 o 400 mg/kg de Cd, y se fotografiaron bajo el estereomicroscopio en los días 0, 3, 6, 9 y 14. El color se convierte en valores RGB, CMYK y luminosidad, y la caída (o aumento) de esos valores se usa como medida de crecimiento. En el ensayo de reproducción se pusieron 15 adultos por frasco, con 100 a 1.200 mg/kg de Cd durante 28 días; luego se extrajeron con un [extractor MacFadyen](https://www.ecotech.de/en/product/macfadyen_extractor_1) durante 48 horas y se contaron adultos vivos y juveniles [@oecd232; @iso23266]. La CL50 y la CE50 se calcularon con modelos log-logísticos.
+El crecimiento se mide por el color del tegumento, que se oscurece a medida que el ácaro crece [@jegede2023]. En cada réplica se pusieron 5 ácaros adultos en 3 g de suelo con 0, 200 o 400 mg/kg de Cd, y se fotografiaron bajo el estereomicroscopio en los días 0, 3, 6, 9 y 14. De cada foto se extrae el color en los canales rojo, verde y azul (RGB), negro (K) y luminosidad (L), y el cambio de esos valores respecto al día 0, normalizado por el control, se usa como medida de crecimiento. En el ensayo de reproducción se preparó un pote de 100 g de suelo por concentración (0, 100, 200, 400, 800 y 1.200 mg/kg de Cd), que se dividió en 4 frascos de unos 25 g (3 en P2), con 15 adultos por frasco durante 28 días; luego se extrajeron con un [extractor MacFadyen](https://www.ecotech.de/en/product/macfadyen_extractor_1) durante 48 horas y se contaron adultos vivos y juveniles [@oecd232; @iso23266]. La CL50 y la CE50 se calcularon con modelos log-logísticos.
 
 ![*Oppia nitens* en los días 0, 3, 6, 9 y 14, en el control y con 200 y 400 mg/kg de cadmio, en suelo de bosque [@moreno2026].](../img/oppia_color.jpg){width="70%" fig-align="center" fig-alt="Ácaros que se oscurecen con el tiempo en el control y no en los tratamientos con cadmio"}
 
@@ -394,7 +397,7 @@ ggplot(toxicidad, aes(x = suelo, y = valor, fill = suelo)) +
   theme(legend.position = "none")
 ```
 
-El cadmio fue 6 veces más tóxico para la sobrevivencia en P1 (CL50 de 103 contra 664 mg/kg) y 5 veces más tóxico para la reproducción (CE50 de 97 contra 471 mg/kg). Sin cadmio, el crecimiento de los ácaros no difirió del suelo de bosque, es decir, los suelos no eran tóxicos por sí solos.\
+El cadmio fue 6 veces más tóxico para la sobrevivencia en P1 (CL50 de 103 contra 664 mg/kg) y 5 veces más tóxico para la reproducción (CE50 de 97 contra 471 mg/kg). Sin cadmio, el crecimiento de los ácaros no difirió del suelo de bosque, es decir, los suelos no eran tóxicos por sí solos. Con 400 mg/kg de Cd, en cambio, los ácaros murieron después del día 9 en P1, y en P3 el crecimiento fue significativamente menor.\
 Aun dentro de los límites legales, el suelo con menos materia orgánica y más ácido dejó a su fauna más vulnerable. Los resultados muestran una asociación entre las propiedades del suelo y la toxicidad. En el suelo de bosque, la CL50 también varió según la capa, 193 mg/kg en A/E y 581 mg/kg en OA.
 
 ## 5. Actividad: detectives del suelo
