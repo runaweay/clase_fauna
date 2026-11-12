@@ -2,19 +2,19 @@
 
 **Cómo las prácticas de recuperación del suelo pueden aumentar la fauna edáfica**
 
-Clase invitada para el curso *Conservación del Suelo y Gestión del Carbono* (REN237-1), Pontificia Universidad Católica de Chile, 10 de noviembre de 2026.
+Clase invitada para el curso *Conservación del Suelo y Gestión del Carbono* (REN237-1), impartido por la profesora Sara Acevedo, Pontificia Universidad Católica de Chile, 10 de noviembre de 2026.
 
 👉 **Página de la clase:** https://runaweay.github.io/clase_fauna/scripts/clase_fauna.html
 
 ## Contenido
 
-La clase recorre cinco preguntas:
+La clase recorre 5 preguntas:
 
 1. ¿Qué hay en el suelo?
 2. ¿Qué hacen sus organismos?
 3. ¿Cómo sabemos si el suelo está sano?
 4. El suelo en el Antropoceno, con resultados de ensayos ecotoxicológicos con el ácaro *Oppia nitens*
-5. Actividad «Detectives del suelo»: extracción de mesofauna con un embudo de Berlese-Tullgren casero y observación al microscopio de dos suelos del campus San Joaquín
+5. Actividad "Detectives del suelo": extracción de mesofauna con un embudo de Berlese-Tullgren casero y observación al microscopio de dos suelos del campus San Joaquín
 
 ## Estructura del repositorio
 
